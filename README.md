@@ -1,5 +1,5 @@
 # GDD-Amostra
-grupo: Guilherme Santos, Igor Cafazzi, Igor Michelini, Matheus Campos
+Grupo: Guilherme Santos, Igor Cafazzi, Igor Michelini, Matheus Campos
 
 <p align="center">
   <img src="https://i.ibb.co/56s7K8j/292330192-445386850928422-7259301303587158181-n-jpg.png" alt="Minimalist RPG GDD Banner">
