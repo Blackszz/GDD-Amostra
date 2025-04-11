@@ -44,4 +44,4 @@ Adaptado do [original] (https://github.com/allefrodrigo/gdd-template) para utili
     -   [5.4. Interface do Usuário (UI)](https://github.com/Blackszz/GDD-Amostra/wiki/5.-Arte-e-Estilo-Visual#54-interface-do-usu%C3%A1rio-ui)
     -   [5.5. Paleta de Cores](https://github.com/Blackszz/GDD-Amostra/wiki/5.-Arte-e-Estilo-Visual#55-paleta-de-cores)
 -   [6. Áudio](https://github.com/Blackszz/GDD-Amostra/wiki/6.-%C3%81udio)</br>
-    -   [6.2. Efeitos Sonoros](https://github.com/Blackszz/GDD-Amostra/wiki/6.-%C3%81udio#62-efeitos-sonoros)
+    -   [6.1. Efeitos Sonoros](https://github.com/Blackszz/GDD-Amostra/wiki/6.-%C3%81udio#62-efeitos-sonoros)
